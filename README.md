@@ -3,4 +3,6 @@ The Fornax is a small self contained desktop former that is portable and doesn't
   <img src="/images/fornax2.jpg" width="400" />
   
 </p>
-I recently finished building a large vacuum forming table at FamiLAB for some other projects, but while building it I made notes for improvements as well as suggestions from friends. The project is documented here https://familab.org/2016/08/familab-now-has-a-vacuum-forming-table/. It works great and we've already made use of it for some projects, but I wanted something portable as well. I had some aluminum extrusion left over from another project, so I decided to use that for the frame. I also changed course this time to using a vacuum cleaner motor instead of a vacuum pump. So far the results have been amazing.
+I came up with the idea for this after using a toaster and a shop vac to create some styrene parts for a display. While I designed this model, I worked with a team to build it at my local makerspace, FamiLAB. It works great and we've already made use of it for some projects. This is not the final design, I had some aluminum extrusion left over from another project, so I decided to use that for the frame.  The next design will use strictly 2020 extrusion, and a different clamps for the frame as well as a easily adjustable lock for the rails.
+
+The video of our build is here: 
